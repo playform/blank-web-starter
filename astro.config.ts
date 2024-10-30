@@ -6,6 +6,9 @@ export default (await import("astro/config")).defineConfig({
 	outDir: "./Target",
 	// TODO Place your site URL here
 	// site: "",
+	server: {
+		port: 9999,
+	},
 	build: {
 		concurrency: 9999,
 	},
