@@ -2,4 +2,4 @@
 
 AstroJS Starter.
 
-[Starter]: https://npmjs.org/blank-web-starter
+[Starter]: HTTPS://npmjs.org/blank-web-starter
